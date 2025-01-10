@@ -1,2 +1,2 @@
-# self_study
+# Hands-On ML
 공부장
