@@ -1,5 +1,2 @@
 SELECT 
  
-v
-
-
